@@ -1,0 +1,18 @@
+======= AUTOMATED SALES REPORT =======
+Generated on: 2025-07-19 05:53:05
+
+Date        Product        Category       Qty  Price     Sale      
+----------------------------------------------------------------------
+2025-07-15  Laptop         Electronics    3    45000.00  135000.00 
+2025-07-15  Pen            Stationery     50   10.00     500.00    
+2025-07-16  Chair          Furniture      5    1500.00   7500.00   
+2025-07-17  Notebook       Stationery     30   25.00     750.00    
+2025-07-17  Smartphone     Electronics    2    20000.00  40000.00  
+
+[SUMMARY]
+Total Sales: ₹183750.00
+Sales by Category:
+  - Electronics: ₹175000.00
+  - Stationery: ₹1250.00
+  - Furniture: ₹7500.00
+======================================
